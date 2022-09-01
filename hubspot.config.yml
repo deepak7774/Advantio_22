@@ -1,0 +1,11 @@
+defaultPortal: Deepak
+portals:
+  - name: Deepak
+    portalId: 4037193
+    authType: personalaccesskey
+    auth:
+    accessToken: >-
+          pat-na1-76320651-033d-42b1-950d-d0ff08bb4a7c
+        expiresAt: '2021-01-04T18:11:54.164Z'
+     personalAccessKey: >-
+      CiRjMGZhMGVhNS1lMTAyLTRhYjktOTg2NS02ZWU5NmMxM2JmMTIQybT2ARi8-BkqGQAF5pGCUNcZKQX9y4y7aJlRM8WTMWgFK39KA25hMQ
