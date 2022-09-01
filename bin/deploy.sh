@@ -1,2 +1,2 @@
 #!/bin/bash
-npx hs upload Advantio_22
+npx hs fetch --account=Deepak src Advantio_22
