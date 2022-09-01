@@ -1,2 +1,2 @@
 #!/bin/bash
-npx hs upload Advantio_22
+npx hs upload src Advantio_22
